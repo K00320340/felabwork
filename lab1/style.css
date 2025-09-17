@@ -1,0 +1,16 @@
+ 
+ body {font-family:sans-serif;
+       margin: 1.5em;
+       padding: 2em;}
+
+ h1 {font-weight:bold;
+     font-size:2em;}  
+     
+ p {font-size: 1em;
+    font-weight: bold;}
+    
+ ul {word-spacing: 2px;}
+ 
+ footer{font-size: small;
+        color: muted;}
+
